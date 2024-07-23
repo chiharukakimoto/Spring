@@ -31,3 +31,32 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# MacOSのシステムファイル
+.DS_Store
+.Trash/
+.CFUserTextEncoding
+
+# ユーザーの設定ファイル
+.bash_profile
+.gitconfig
+.ssh/
+.vscode/
+
+# その他の不要なディレクトリ
+.android/
+.m2/
+.npm/
+.cache/
+.local/
+.config/
+.gradle/
+.bundle/
+.composer/
+.gem/
+.dotnet/
+.nuget/
+.swiftpm/
+.zsh_sessions/
+.zsh_history
+
